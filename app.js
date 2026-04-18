@@ -5,8 +5,6 @@ const sentCountEl = document.getElementById("sentence-count")
 const paraCountEl = document.getElementById("para-count")
 const tokenGPTCountEl = document.getElementById("token-gpt")
 const colors = ["bg-indigo-100", "bg-purple-100", "bg-pink-100", "bg-amber-100", "bg-teal-100"]
-// const tokenClaudeCountEl = document.getElementById("token-claude")
-const modelSelectorEl = document.getElementById("model-select")
 const tokenDisplayEl = document.getElementById("token-display")
 
 function countWords(text) {
