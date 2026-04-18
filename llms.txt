@@ -1,0 +1,29 @@
+# Token Counter — Visualize GPT-4 Tokens in Real Time
+
+> A free, real-time token counter and visualizer for GPT-4. Built for learners exploring the basics of LLMs and GenAI.
+
+## What This Tool Does
+
+- Counts words, characters, sentences and paragraphs from any input text
+- Shows exact GPT-4 token counts using the real cl100k_base tokenizer
+- Visualizes how GPT-4 splits text into tokens using color-coded pills
+- Runs entirely in the browser — no data sent to any server
+
+## Who It's For
+
+Students, developers and curious minds learning how large language models process and tokenize text.
+
+## Tech Stack
+
+- HTML, Tailwind CSS, vanilla JavaScript
+- gpt-tokenizer (cl100k_base) for exact GPT-4 token counts
+- Deployed on GitHub Pages — fully static, no backend
+
+## Source
+
+- Live tool: https://snehaldutta.github.io/token-counter.io
+- GitHub: https://github.com/snehaldutta/token-counter.io
+
+## Author
+
+- Built by Snehal — https://snehaldutta.github.io/snehal.io/
